@@ -42,7 +42,6 @@ Busco oportunidades acadêmicas, iniciação científica e experiências que amp
 </div>
 
 <p align="center">
-<em>Gráfico ajustado para evitar distorções por arquivos de marcação.</em>
 </p>
 
 ---
