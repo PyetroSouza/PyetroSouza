@@ -38,7 +38,11 @@ Busco oportunidades acadêmicas, iniciação científica e experiências que amp
 ### 📊 Linguagens mais utilizadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyetroSouza&layout=compact&langs_count=6&theme=dracula&hide_border=false&hide=html,css"/>
+
+  
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyetroSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <p align="center">
