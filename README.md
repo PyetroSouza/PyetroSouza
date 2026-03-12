@@ -1,19 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pyetro+Souza;I'm+17+years+old;I+am+from+Jandira,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<p align="justify">
-Estudante do Ensino Médio com Habilitação Profissional Técnica pela ETEC Prefeito Braz Paschoalin e aluno do curso Técnico em Desenvolvimento de Sistemas no SENAI Jandira.
-Tenho interesse sólido em programação, desenvolvimento web e fundamentos de engenharia de software.
-</p>
-
-<p align="justify">
-Minha trajetória em tecnologia começou pela curiosidade em entender como sistemas funcionam internamente, o que evoluiu para o estudo de algoritmos, lógica de programação e arquitetura de software.
-Atualmente, direciono minha formação para Engenharia de Software, com foco em construir base técnica consistente e capacidade real de resolver problemas.
-</p>
-
-<p align="justify">
-Pretendo ingressar em uma universidade de referência como UFSC, UFRGS ou PUCRS, aprofundando estudos em engenharia de software, computação e fundamentos matemáticos da computação.
-Busco oportunidades acadêmicas, iniciação científica e experiências que ampliem minha maturidade técnica.
-</p>
 
 ---
 
@@ -46,7 +34,7 @@ Busco oportunidades acadêmicas, iniciação científica e experiências que amp
   
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyetroSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" height="150" alt="languages graph"  />
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyetroSouza&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />  
 </div>
 
 <p align="center">
@@ -65,7 +53,6 @@ Busco oportunidades acadêmicas, iniciação científica e experiências que amp
   </a>
 </div>
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -75,3 +62,4 @@ Busco oportunidades acadêmicas, iniciação científica e experiências que amp
   <img alt="github contribution grid snake animation" 
     src="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake.svg">
 </picture>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
