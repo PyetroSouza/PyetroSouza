@@ -3,11 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pyetro+Souza;I'm+17+years+old;I+am+from+Jandira,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
----
-
-### 🛠️ Linguagens e Tecnologias
-
 <div align="center">
+  
+  ### 🛠️ Linguagens e Tecnologias
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
@@ -25,22 +24,23 @@
 <em>Em constante aprendizado e aprofundamento.</em>
 </p>
 
----
 
-### 📊 Linguagens mais utilizadas
+
 
 <div align="center">
-
+  
+  ### 📊 Linguagens mais utilizadas
+  <br>
+  
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyetroSouza&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />  
+</div>
   
 <div align="center">
 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyetroSouza&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />  
-</div>
 
-<p align="center">
-</p>
 
----
+
+
 
 ### 🌐 Redes Sociais
 
