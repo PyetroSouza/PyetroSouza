@@ -1,4 +1,4 @@
-<h2 align="center">Olá, eu sou o Pyetro 👋</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pyetro+Souza;I'm+17+years+old;I+am+from+Jandira,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <p align="justify">
 Estudante do Ensino Médio com Habilitação Profissional Técnica pela ETEC Prefeito Braz Paschoalin e aluno do curso Técnico em Desenvolvimento de Sistemas no SENAI Jandira.
@@ -46,7 +46,7 @@ Busco oportunidades acadêmicas, iniciação científica e experiências que amp
   
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyetroSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyetroSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" height="150" alt="languages graph"  />
 </div>
 
 <p align="center">
